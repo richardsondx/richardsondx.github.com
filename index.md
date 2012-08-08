@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello World!
-tagline: This blog is for those who knew how to code before they knew how to walk
+tagline: and those who knew how to code before they knew how to walk
 ---
 {% include JB/setup %}
 
