@@ -5,7 +5,7 @@ tagline: and those who knew how to code before they knew how to walk
 ---
 {% include JB/setup %}
 
-I am a `Ruby on Rails Developer` and the co-founder of a few baby startups [Treepoll](http://www.railsview.com); the first micropolling social network, [HelpMeDateYou](http://www.helpmedateyou.com); a place where girls and guys can share advice, [Railsview](http://www.railsview.com); a ruby on rails theme marketplace,[Railscircle](http://www.railcircle.com); Canada Ruby on Rails Job Board.
+I am `Richardson Dackam` a `Ruby on Rails Developer` and the co-founder of a few baby startups [Treepoll](http://www.railsview.com); the first micropolling social network, [HelpMeDateYou](http://www.helpmedateyou.com); a place where girls and guys can share advice, [Railsview](http://www.railsview.com); a ruby on rails theme marketplace,[Railscircle](http://www.railcircle.com); Canada Ruby on Rails Job Board.
 
 I love to code and among the languages and tools I often play with are: *HTML5*,*CSS3*,*Javascript*, *Jquery*, *Rubymotion*, *node.js*, *Adobe Photoshop CS6*... of course :) did I mention that I love web design? Check my [Dribbble](http://www.dribbble.com/richardsondx)
 
