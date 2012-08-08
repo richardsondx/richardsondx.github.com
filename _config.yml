@@ -9,15 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Richardson Dx's Blog - Railsstep
+tagline: For those who learnt how to code before they knew how to walk
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
-
+  name : Richadson Dackam
+  email : richardsondx@gmail.com
+  github : richardsondx
+  twitter : richardsondx
+  feedburner : richardsondx
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
