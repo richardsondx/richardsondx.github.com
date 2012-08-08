@@ -1,46 +1,30 @@
 ---
 layout: page
 title: Hello World!
-tagline: Supporting tagline
+tagline: This blog is for those who knew how to code before they knew how to walk
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+I am a `Ruby on Rails Developer` and the co-founder of a few baby startups [Treepoll](http://www.railsview.com); the first micropolling social network, [HelpMeDateYou](http://www.helpmedateyou.com); a place where girls and guys can share advice, [Railsview](http://www.railsview.com); a ruby on rails theme marketplace,[Railscircle](http://www.railcircle.com); Canada Ruby on Rails Job Board.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+I love to code and among the languages and tools I often play with are: *HTML5*,*CSS3*,*Javascript*, *Jquery*, *Rubymotion*, *node.js*, *Adobe Photoshop CS6*... of course :) did I mention that I love web design? Check my [Dribbble](http://www.dribbble.com/richardsondx)
 
-## Update Author Attributes
+## Why you should follow this blog
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+I like to share anything that is often not clear enough to understand right away or usefull tools and tricks that I often use.  My blog is also a cool way to show off my work and skills and especially get feedback from the community in order to improve my code. I'm passionate about what I do so I want to give back. `_posts/core-samples` folder.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+## How you should read this blog
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+This blog is pretty straight foward. When you see something like this...
 
-    $ rm -rf _posts/core-samples
+    $ Sometime I'll write terminal commands or ruby code
 
-Here's a sample "posts list".
+It's mean that it's a code block. I'm going to share some of my favorite snipeets here so pay a close attention to this.
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
