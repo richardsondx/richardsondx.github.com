@@ -50,8 +50,6 @@
 
 
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-
-
           <div class="nav-collapse">
             <ul class="nav">
               {% assign pages_list = site.pages %}
@@ -59,6 +57,7 @@
               {% include JB/pages_list %}
             </ul>
             <ul class="nav pull-right social">
+              <img src="http://www.richdx.com/assets/my_picture-a37fd33cb998eb4e33e0fae3a67b6eac.png" width="50px"/>
               <li class="divider-vertical"></li>
               {% if site.author.github %}
                 <li>
@@ -95,7 +94,6 @@
         </div>
       </div>
     </div>
-
     <div class="container">
       <div class="content">
         {{ content }}
