@@ -23,7 +23,7 @@ tagline: For those who knew how to code before they knew how to walk
 -->
 </style>
 <div id="headerwrapper">
-	<img id="banner" src="assets/themes/hooligan/images/rubybanner.png"/>
+	<img id="banner" src="assets/themes/hooligan/images/rubybanner2.png"/>
 </div>
 
 
