@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: and those who knew how to code before they knew how to walk
+title: This is my Railstep!
+tagline: For those who knew how to code before they knew how to walk
 ---
 {% include JB/setup %}
 
