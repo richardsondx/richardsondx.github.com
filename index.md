@@ -45,6 +45,7 @@ I love to code and among the languages, technologiestools I often play with are:
 
 Did I mention that I love web design? Check out my porfolio on [Dribbble](http://www.dribbble.com/richardsondx), and [follow me on twitter](http://twitter.com/richardsondx)
 
+
 ## 1. Why you should follow this blog
 
 I like to share anything that is often not clear enough to understand right away or usefull tools and tricks that I often use.  My blog is also a cool way to show off my work and skills and especially get feedback from the community in order to improve my code. I'm passionate about what I do so I want to give back. `_posts/core-samples` folder.
