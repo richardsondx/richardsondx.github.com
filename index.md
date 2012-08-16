@@ -65,5 +65,3 @@ It's mean that it's a code block. I'm going to share some of my favorite snipeet
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
