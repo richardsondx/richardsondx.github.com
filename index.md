@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is my Railstep!
+title: These are my Railstep!
 tagline: For those who knew how to code before they knew how to walk
 ---
 {% include JB/setup %}
